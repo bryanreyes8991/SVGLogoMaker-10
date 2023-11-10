@@ -1,0 +1,17 @@
+{
+  "name": "svglogomaker-week10-challenge",
+  "version": "1.0.0",
+  "description": "commandline svg logo maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
