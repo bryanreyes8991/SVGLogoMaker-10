@@ -1,0 +1,5 @@
+const CLI = require("./lib/cli");
+
+new CLI().run();
+
+//RUN METHOD SHOULD HANDLE INQ PROMPTS AND LOGIC OF THE APPLICATION.
